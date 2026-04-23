@@ -1,15 +1,17 @@
 ---
-title: "Ezra Spira-Cohen Academic Website"
+title: "Ezra Spira-Cohen"
 ---
 
 ## Welcome
 
-This website showcases my academic work, research interests, and publications.
+This website showcases my research, teaching, and scholarly work.
 
 ### Highlights
 
-- Computational linguistics and text analytics
-- Research portfolio and publications
-- Open science, reproducible workflows, and academic communication
+- Computational linguistics and text analysis
+- Reproducible academic workflows
+- Open science and research communication
 
-Feel free to explore the site for more details on research, publications, and current projects.
+## Current focus
+
+I am building an academic website that highlights research, publications, and project work. Check the Research and Publications pages for details.
