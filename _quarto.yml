@@ -1,6 +1,7 @@
 project:
   type: website
 
+# Academic website configuration
 website:
   title: "Ezra Spira-Cohen"
   navbar:
