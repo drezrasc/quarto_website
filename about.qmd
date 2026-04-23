@@ -4,4 +4,12 @@ title: "About"
 
 ## About Me
 
-This is my academic website.
+I am an academic researcher focused on computational linguistics, educational data science, and open scholarly communication.
+
+### Interests
+
+- Reproducible publishing and documentation
+- Data-driven research tools
+- Academic website design for research visibility
+
+This site is designed to present my work clearly and professionally for colleagues, students, and collaborators.

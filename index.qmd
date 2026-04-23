@@ -4,10 +4,12 @@ title: "Ezra Spira-Cohen Academic Website"
 
 ## Welcome
 
-This site is currently under construction.
+This website showcases my academic work, research interests, and publications.
 
-Please check back soon!
+### Highlights
 
-- Research interests: TBD
-- Publications: TBD
-- Contact: TBD
+- Computational linguistics and text analytics
+- Research portfolio and publications
+- Open science, reproducible workflows, and academic communication
+
+Feel free to explore the site for more details on research, publications, and current projects.

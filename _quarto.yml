@@ -2,13 +2,17 @@ project:
   type: website
 
 website:
-  title: "Ezra Spira-Cohen"
+  title: "Ezra Spira-Cohen Academic Website"
   navbar:
     left:
-    - href: index.qmd
-      text: Home
-    - href: about.qmd
-      text: About
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
 
 format:
   html:
@@ -16,7 +20,3 @@ format:
       - cosmo
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 161d2b5 (initial site)
