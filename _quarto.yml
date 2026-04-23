@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Ezra Spira-Cohen Academic Website"
+  title: "Ezra Spira-Cohen"
   navbar:
     left:
       - href: index.qmd
