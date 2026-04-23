@@ -2,14 +2,6 @@
 title: "Research"
 ---
 
-## Research Interests
-
-- Computational linguistics
-- Data-driven education research
-- Open science and scholarly publishing
-
 ## Current Projects
 
-- Academic website design and reproducible publishing
-- Tools for managing research portfolios and publications
-- Exploratory data visualization for student outcomes
+Under Construction
