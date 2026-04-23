@@ -4,10 +4,6 @@ title: "Publications"
 
 ## Selected Publications
 
-1. Spira-Cohen, E. (2025). *Building academic websites with Quarto.* Journal of Open Scholarship.
-2. Spira-Cohen, E. (2024). *Reproducible publishing for academic portfolios.* Digital Scholarship Review.
-3. Spira-Cohen, E. (2023). *Computational methods for research dissemination.* Proceedings of the Academic Web Conference.
 
 ## More Work
 
-This page can be updated with full citation lists, DOI links, and conference posters.
